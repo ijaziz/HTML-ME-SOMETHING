@@ -1,0 +1,26 @@
+p {
+    text-align: left;
+}
+#image1.center{
+    padding: 45px;
+    width: 30%;
+    margin: auto;
+    display: block;
+}
+img.center{
+    align-items: center;
+    width: 70%;
+    margin: auto;
+    display: block;
+}
+
+#image1{
+    border: 29px solid #0e0303;
+}
+#image2{
+    border: 29px solid #d81111;
+    /* border-radius: 530px; */
+}
+#image3{
+    border:29px solid #f2f54e;
+}
